@@ -1,7 +1,6 @@
-.centered {
-  position: fixed; /* or absolute */
-  top: 25%;
-  left: 50%;
+.bumpedDown {
+  
+  padding-top: 10%;
 }
 
 .spacedIcon {
