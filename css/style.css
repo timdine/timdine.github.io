@@ -11,14 +11,18 @@
     padding-left: 10px;
 }
 
-.a {
-    color : black;
+a {
+    color : grey;
 }
 
-.a:visited{
-    color: black;
+a:visited{
+    color: grey;
 }
 
-.a:hover{
+a:hover{
     color:black;
+}
+
+body:{
+    background-color:#F7F7F7
 }
